@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-[remote "origin"]
-	url = git://g.csail.mit.edu/6.5840-golabs-2023
-	fetch = +refs/*:refs/*
-	mirror = true
